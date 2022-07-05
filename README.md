@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
-<h3 align="center">A Minecraf: Bedrock developer from Austria</h3>
+<h3 align="center">A Minecraft: Bedrock developer</h3>
 
 - 🔭 I’m currently working on **BunnyGames**
 
